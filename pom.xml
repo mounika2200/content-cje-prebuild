@@ -63,7 +63,7 @@
       <plugin>
         <groupId>com.igormaznitsa</groupId>
         <artifactId>mvn-golang-wrapper</artifactId>
-        <version>${go.wrapper.plugin.version}</version>
+        <version>${2.2.0}</version>
         <extensions>true</extensions>
         <configuration>
           <!--<goPath>${basedir}</goPath>-->
